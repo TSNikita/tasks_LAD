@@ -45,3 +45,4 @@ for(const day of dayweks) {
 }
 
 console.log(str)
+
