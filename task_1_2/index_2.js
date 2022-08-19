@@ -14,3 +14,4 @@ formElement.addEventListener("focus", function(event) {
 formElement.addEventListener("blur", function(event) {
     event.target.classList.remove('focused');
 }, true);
+
